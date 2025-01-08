@@ -106,9 +106,9 @@ You can choose to set their password or send the agent a password reset email.
   - **Karen**
   - **Ken**
 
-<p>
-<img src="https://i.imgur.com/xrJ8gm6.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/1aa6c71a-42e8-429c-891a-15bed0cecd80)
+
+![image](https://github.com/user-attachments/assets/7dd19da1-64b4-48fc-90fd-6908f684e3c7)
 
 <h3>8.) Configure SLA (Service Level Agreements)</h3>
 
@@ -118,17 +118,13 @@ You can choose to set their password or send the agent a password reset email.
   - **Sev-B**: Grace Period = 4 hours, Schedule = 24/7.
   - **Sev-C**: Grace Period = 8 hours, Schedule = Business Hours.
 
-<p>
-<img src="https://i.imgur.com/cLC1cDs.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/2210c8e6-7538-4339-9255-31f3244a41ff)
 
-<p>
-<img src="https://i.imgur.com/scM2F5T.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/765930cf-e255-4024-93ba-d1892c0c618d)
 
-<p>
-<img src="https://i.imgur.com/PGe4b44.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/21acc7e6-a159-48ad-b155-1b005cbe90bf)
+
+![image](https://github.com/user-attachments/assets/5feb7356-15b5-42ca-81f9-bf8cacb7bfad)
 
 <h3>9.) Configure Help Topics</h3>
 
@@ -140,9 +136,9 @@ You can choose to set their password or send the agent a password reset email.
   - **Password Reset**
   - **Other**
 
-<p>
-<img src="https://i.imgur.com/QkUOKCA.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/9b23c9f1-02a5-4147-ba81-1fed94801c14)
+
+![image](https://github.com/user-attachments/assets/409e31d8-a593-4a73-aeeb-6b2b011230c0)
 
 <h2>Conclusion</h2>
 
