@@ -40,17 +40,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>2.) Configure Roles</h3>
 
-- Navigate to **Admin Panel -> Agents -> Roles**.
-- Add a new role called **Supreme Admin**.
-  - Define permissions for agents based on the role they will have. In this lab, we will give permissions for the Tickets, Tasks, and Knowledgebase sections.
+Navigate to **Admin Panel -> Agents -> Roles**.
+Add a new role called **Supreme Admin**.
+- Define permissions for agents based on the role they will have. In this lab, we will give permissions for the Tickets, Tasks, and Knowledgebase sections.
 
-<p>
-<img src="https://i.imgur.com/9dJCITM.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/e506e072-2998-4fab-bef5-7d1beb5f1cab)
 
-<p>
-<img src="https://i.imgur.com/LH17Nqu.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/1a2b3410-c606-40aa-8b88-17cd0b304b90)
+
+![image](https://github.com/user-attachments/assets/03856500-f6a4-4659-8e09-70bd3b79cd79)
+
+![image](https://github.com/user-attachments/assets/f03d9ebd-9188-460b-a20c-6a300fbc7457)
 
 <h3>3.) Configure Departments</h3>
 
@@ -58,19 +58,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add a new department called **SysAdmins**.
   - Use departments to control ticket visibility and assign areas of responsibility (e.g., Help Desk, SysAdmins, Networking).
 
-<p>
-<img src="https://i.imgur.com/WmvPMtk.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/11fb785c-e77f-44ba-bfb4-5631ec7f2071)
 
 <h3>4.) Configure Teams</h3>
 
 - Navigate to **Admin Panel -> Agents -> Teams**.
-- Create a new team called **Online Banking**.
+- Create a new team called **Claims Intake**.
   - Pull agents from different departments to form specialized teams.
 
-<p>
-<img src="https://i.imgur.com/4FEa6Y1.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/65d83120-d398-4bca-902c-a475accad41a)
 
 <h3>5.) Allow Anyone to Create Tickets</h3>
 
@@ -78,9 +74,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Uncheck **Require registration and login to create tickets** to enforce ticket creation by anyone.
 - Enable **Public - Anyone can register** to disable requiring users to register and log in before creating tickets.
 
-<p>
-<img src="https://i.imgur.com/zwlsNTN.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/fd414943-34d8-47e3-a866-e02c97acc017)
 
 <h3>6.) Configure Agents (Workers)</h3>
 
@@ -89,42 +83,21 @@ This tutorial outlines the post-install configuration of the open-source help de
   - **Jane**: Assigned to the **SysAdmins** department.
   - **John**: Assigned to the **Support** department.
 
-<p>
-<img src="https://i.imgur.com/0Yyr2vR.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/c8fde524-a0f9-4655-a3b1-ffe54e6b8b03)
 
-<h3>5.) Allow Anyone to Create Tickets</h3>
+You can choose to set their password or send the agent a password reset email.
 
-- Navigate to **Admin Panel -> Settings -> User Settings**.
-- Uncheck **Require registration and login to create tickets** to enforce ticket creation by anyone.
-- Enable **Public - Anyone can register** to disable requiring users to register and log in before creating tickets.
+![image](https://github.com/user-attachments/assets/d6c8e648-a977-4d9c-b746-08dd7e67c73d)
 
-  <p>
-<img src="https://i.imgur.com/zwlsNTN.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/3672b60f-de23-4e29-86a4-f23c6275e9be)
 
-<h3>6.) Configure Agents (Workers)</h3>
+![image](https://github.com/user-attachments/assets/c9e6118d-2437-4e0b-8d6e-0f968e046191)
 
-- Navigate to **Admin Panel -> Agents -> Add New**.
-- Add agents with the following details:
-  - **Jane**: Assigned to the **SysAdmins** department.
-  - **John**: Assigned to the **Support** department.
+![image](https://github.com/user-attachments/assets/98e42b8b-02c4-4c92-a64e-35082e9d241d)
 
-<p>
-<img src="https://i.imgur.com/0Yyr2vR.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/a3aca015-92dd-4dac-80ad-a1e64fb2cfb5)
 
-<p>
-<img src="https://i.imgur.com/uCV94g6.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/nALrgaJ.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/yzZof2X.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
+![image](https://github.com/user-attachments/assets/2407a470-8733-4777-82a3-4bd1f2f96bd6)
 
 <h3>7.) Configure Users (Customers)</h3>
 
